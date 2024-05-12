@@ -41,7 +41,7 @@ with open("untitled.txt","r") as f1:
 
 print("The number of words are in the file is ",num)
 ```
-##OUTPUT:
+## OUTPUT:
 ![WhatsApp Image 2024-05-12 at 03 24 12_de4e6de1](https://github.com/mahasri06/Word-Count/assets/139841897/3275f2bb-3bc3-47a0-84e2-ddaf18180cd2)
 
 
